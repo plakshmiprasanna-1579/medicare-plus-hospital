@@ -143,7 +143,7 @@ medicare-plus-hospital/
 
 ---
 
-## 📋 Assignment Checklist
+## 📋 Checklist
 - ✅ Home Page with banner and call-to-action
 - ✅ About Page with hospital details
 - ✅ Services Page with departments
