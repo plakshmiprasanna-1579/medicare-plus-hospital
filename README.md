@@ -4,7 +4,7 @@ A complete frontend healthcare website built for the
 MANTRA 2026 Summer School Assignment.
 
 ## Hospital Details
-- **Name:** MediCare Plus Hospital
+- **Name:** MediCare Plus Hospital 
 - **Location:** Nandyal, Andhra Pradesh
 - **Contact:** info@medicareplusnandyal.com
 - **Phone:** +91 98765 12345
