@@ -8,7 +8,7 @@ MANTRA 2026 Summer School - Assignment 1.
 **Submission Date:** 2nd July 2026
 **Maximum Marks:** 10
 
----
+--- 
 
 ## 🌐 Live Links
 - **Netlify:** https://golden-narwhal-b84936.netlify.app
