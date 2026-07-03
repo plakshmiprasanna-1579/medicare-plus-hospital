@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://golden-narwhal-b84936.netlify.app/sitemap.xml
